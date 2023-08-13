@@ -84,7 +84,7 @@ def baseModel():
 
 
 def loadModel(
-    url="https://drive.google.com/uc?id=1yH7ecIvsZd7HP6zccRNZHi4Q25fDv26d",
+    url="https://drive.google.com/uc?id=1Pzzr6fzw04St1MsQHQYDd1eP6tnop-PF",
 ):
 
     model = baseModel()
