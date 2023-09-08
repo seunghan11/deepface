@@ -80,11 +80,11 @@ def baseModel():
     return model
 
 
-# url = 'https://drive.google.com/file/d/1bjvXQfd8KH-lcpNH0bvPZQ_m8kDVqV4L/view?usp=sharing'
+# url = 'https://drive.google.com/file/d/1F_9tYkWbqE9wO4qTxcrkRcYzqRg27K_-/view?usp=sharing'
 
 
 def loadModel(
-    url="https://drive.google.com/uc?id=1XupM8FMRic65v6WJ_Rzj5eUxdjMn2Y24",
+    url="https://drive.google.com/uc?id=1F_9tYkWbqE9wO4qTxcrkRcYzqRg27K_-",
 ):
 
     model = baseModel()
